@@ -72,20 +72,27 @@ AI Tutor is a smart web app that predicts IELTS essay band scores using:
 
 
 
+## 📦 Installation
+
 git clone https://github.com/YOUR_USERNAME/ai-tutor.git
 cd ai-tutor
 pip install -r requirements.txt
 streamlit run app/app.py
 
-<p align="center">
-  <a href="https://ai-tutor-yourusername.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Live-Demo-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo">
-  </a>
-</p>
 
-[https://ai-tutor-yourusername.streamlit.app](https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/)
+## 🌍 Demo
+
+🧪 Try it on Streamlit Cloud (Live Demo):(https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/))
 
 
+🧠 Coming Soon
+Speaking/Listening module prediction
+
+Grammar/vocabulary feedback
+
+Multi-language support
+
+Mobile-first version
 
 
 📝 License
