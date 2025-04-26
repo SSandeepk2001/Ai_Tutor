@@ -68,7 +68,8 @@ AI Tutor is a smart web app that predicts IELTS essay band scores using:
 
 | Essay Input | Word Cloud | Prediction Output |
 |-------------|------------|-------------------|
-| ![input](static/essay_input.png) | ![wordcloud](static/wordcloud.png) | ![output](static/output.png) |
+| ![input](![image](https://github.com/user-attachments/assets/dbcea6e3-4e36-43e9-8ecd-20d8ec963f45)
+) | ![wordcloud](static/wordcloud.png) | ![output](static/output.png) |
 
 
 
