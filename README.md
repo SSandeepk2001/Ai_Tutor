@@ -82,7 +82,8 @@ streamlit run app/app.py
 
 ## 🌍 Demo
 
-🧪 Try it on Streamlit Cloud (Live Demo): [Click Here](https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/)
+🧪 Try it on Streamlit Cloud (Live Demo): [Click Here]([https://ai-tutor-your-username.streamlit.app](https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/))
+
 
 
 📝 License
