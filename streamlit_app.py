@@ -8,7 +8,7 @@ import re
 from collections import Counter
 
 # Load the model
-model = joblib.load(r"S:\Project\best_model_single.pkl")
+model = joblib.load(best_model_single.pkl)
 
 # Page configuration
 st.set_page_config(page_title="AI Tutor - IELTS Band Predictor", page_icon="🧠", layout="wide")
