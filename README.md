@@ -81,8 +81,12 @@ pip install -r requirements.txt
 streamlit run app/app.py
 
 ## 🌍 Demo
+<p align="center">
+  <a href="[https://ai-tutor-yourusername.streamlit.app](https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Live-Demo-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
 
-🧪 Try it on Streamlit Cloud (Live Demo): [Click Here]([https://ai-tutor-your-username.streamlit.app](https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/))
 
 
 
