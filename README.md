@@ -19,48 +19,71 @@ ai-tutor/
 ├── .gitignore              # Ignore unnecessary files
 
 
-✨ README.md
-# 🧠 AI Tutor
+<h1 align="center">🧠 AI Tutor</h1>
+<p align="center">
+  <b>IELTS Essay Band Score Predictor</b> • <i>Smart • Real-time • AI-driven</i>  
+</p>
 
-> 🎓 An AI-powered IELTS Essay Band Score Predictor built with Machine Learning, NLP, and Streamlit.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/XGBoost-%F0%9F%9A%80-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/github/license/YOUR_USERNAME/ai-tutor?style=flat-square" />
+</p>
+
+---
+
+## 💡 What is AI Tutor?
+
+AI Tutor is a smart web app that predicts IELTS essay band scores using:
+- ✍️ Natural Language Processing
+- ⚙️ Machine Learning Models (XGBoost, Ridge)
+- 🎨 Clean and modern Streamlit UI
 
 ---
 
 ## 🚀 Features
 
-- 📄 Instant IELTS Band Score Prediction
-- 🧠 Personality Analysis (Planned)
-- 📊 Word Cloud and Word Frequency Chart
-- 💾 PDF Report Generation (Planned)
-- 🖥️ Beautiful 3D-Style Streamlit Interface
+- 📄 Real-time band score prediction
+- 📊 Word cloud & word frequency visualizations
+- 🧠 Planned: Personality analysis based on writing
+- 📄 Planned: PDF report generation
+- 🎨 3D-style dashboard with emojis & interactivity
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- Scikit-learn, XGBoost
-- TfidfVectorizer (NLP)
-- Streamlit
-- Matplotlib / Seaborn
+| Tool        | Purpose                   |
+|-------------|---------------------------|
+| Python      | Programming Language      |
+| Streamlit   | Web App UI                |
+| Scikit-learn, XGBoost | ML Models       |
+| TF-IDF      | Text Vectorization (NLP)  |
+| WordCloud, Matplotlib | Visualizations  |
 
 ---
 
-## 📁 Project Structure
+## 🖼️ Screenshots
+
+| Essay Input | Word Cloud | Prediction Output |
+|-------------|------------|-------------------|
+| ![input](static/essay_input.png) | ![wordcloud](static/wordcloud.png) | ![output](static/output.png) |
+
+---
+
+## 📦 Installation
 
 ```bash
-ai-tutor/
-├── app/         # Streamlit app
-├── models/      # Trained models
-├── data/        # IELTS essay dataset
-├── reports/     # Visuals & PDFs
-
-
-📦 Installation
 git clone https://github.com/YOUR_USERNAME/ai-tutor.git
 cd ai-tutor
 pip install -r requirements.txt
 streamlit run app/app.py
+
+## 🌍 Demo
+
+🧪 Try it on Streamlit Cloud (Live Demo): [Click Here](https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/)
+
 
 📝 License
 MIT © Sandeep Kumar
