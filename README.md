@@ -63,17 +63,6 @@ AI Tutor is a smart web app that predicts IELTS essay band scores using:
 | WordCloud, Matplotlib | Visualizations  |
 
 ---
-
-## 🖼️ Screenshots
-
-| Essay Input | Word Cloud | Prediction Output |
-|-------------|------------|-------------------|
-| ![image](https://github.com/user-attachments/assets/dbcea6e3-4e36-43e9-8ecd-20d8ec963f45)
-| ![image](https://github.com/user-attachments/assets/9e956fc8-c1ec-4c3a-ab1e-36b1fe0d0416)
-| ![image](https://github.com/user-attachments/assets/5cf65b75-95bb-4297-9447-20571f35cc00)
-
-
-
 ## 📦 Installation
 
 git clone https://github.com/YOUR_USERNAME/ai-tutor.git
@@ -99,16 +88,4 @@ Mobile-first version
 
 📝 License
 MIT © Sandeep Kumar
-
----
-
-## ✅ Next Steps
-
-Would you like me to:
-
-1. Generate these files (`README.md`, `requirements.txt`, `.gitignore`, etc.) for you?
-2. Help you **push everything to GitHub** from your local system?
-3. Help you deploy the Streamlit app on **Streamlit Cloud**?
-
-Let me know how you'd like to proceed!
 
