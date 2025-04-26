@@ -76,7 +76,7 @@ streamlit run app/app.py
 🧪 Try it on Streamlit Cloud (Live Demo):(https://aitutor-juvbfjyhkemdorxdxsjlzt.streamlit.app/))
 
 
-🧠 Coming Soon
+## 🧠 Coming Soon
 Speaking/Listening module prediction
 
 Grammar/vocabulary feedback
